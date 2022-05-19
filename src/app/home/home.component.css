@@ -1,0 +1,11 @@
+#bghome{
+    padding-top: 100px;
+    padding-bottom: 30px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../../assets/img/bghome.jpeg);
+    background-size:auto;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+.homebannertext{
+    color: white;
+}
